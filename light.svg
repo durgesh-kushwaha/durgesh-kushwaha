@@ -78,7 +78,7 @@
     <g opacity="0">
       <animate attributeName="opacity" values="0;1" dur=".4s" begin="0.3s" fill="freeze"/>
       <text x="492" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" letter-spacing="2" fill="#2563EB">SYSTEM.INFO</text>
-      <text x="492" y="122" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#475569">user@maanik:~$ ./profile.sh</text>
+      <text x="492" y="122" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#475569">user@durgesh:~$ ./profile.sh</text>
     </g>
 
     <line x1="492" y1="136" x2="1132" y2="136" stroke="#DCE7F5" stroke-width="1"/>
