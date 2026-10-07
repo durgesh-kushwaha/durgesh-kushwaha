@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=durgesh-kushwaha&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/MAANIK579?label=Followers&style=for-the-badge&color=22D3EE" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/durgesh-kushwaha?label=Followers&style=for-the-badge&color=22D3EE" alt="GitHub followers" />
 </p>
 
 <p align="center">
@@ -84,34 +84,41 @@ fun_fact: "I learn fastest by turning real problems into working projects"
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-#### 🪞 Custom Smart Mirror UI + Offline Voice Assistant
-A from-scratch smart mirror frontend built to replace MagicMirror's default UI (not using MagicMirror's built-in modules).
+#### 🛡️ BizGuard AI — Intelligent Business Health Analyzer
+A practical data/AI application designed to help small businesses turn sales data into understandable insights, trends and actionable recommendations.
 
-- Built with a **Node/Express** backend and a browser-based frontend (developed and tested at `localhost:3000` before deploying to actual mirror hardware)
-- Custom four-region dashboard layout: clock & date, live weather (via OpenWeatherMap, proxied through the backend), a time-aware greeting, and an upcoming events/calendar panel
-- Paired with a **lightweight offline voice assistant** running on a **Raspberry Pi 4 (4GB)** — scoped intentionally to a fixed set of user-defined phrases/responses rather than open-ended conversation, keeping it fast and fully offline
+- Built with **Python, Pandas, NumPy, SQL and Streamlit**
+- **Live App:** [bizguard.streamlit.app](https://bizguard.streamlit.app/)
+- **Repository:** [github.com/durgesh-kushwaha/bizguard](https://github.com/durgesh-kushwaha/bizguard)
+
+#### 🏨 HoteliQ — Hotel Booking Analytics
+Interactive analysis of hotel booking patterns, occupancy, cancellations, pricing and business performance.
+
+- Built with **Python, Pandas, NumPy, Matplotlib and Streamlit**
+- **Live App:** [hoteliq.streamlit.app](https://hoteliq.streamlit.app/)
+- **Repository:** [github.com/durgesh-kushwaha/hotel-booking-analytics](https://github.com/durgesh-kushwaha/hotel-booking-analytics)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MAANIK579&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAANIK579&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=durgesh-kushwaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh-kushwaha&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAANIK579&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh-kushwaha&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAANIK579&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgesh-kushwaha&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MAANIK579&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=durgesh-kushwaha&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -119,7 +126,7 @@ A from-scratch smart mirror frontend built to replace MagicMirror's default UI (
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MAANIK579/MAANIK579/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+  <img src="contribution-snake.svg" alt="Contribution snake animation" width="100%"/>
 </p>
 
 
@@ -128,9 +135,9 @@ A from-scratch smart mirror frontend built to replace MagicMirror's default UI (
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/maanik-agarwal-" target="_blank">LinkedIn</a> •
-  <a href="mailto:gargruchimay1984@gmail.com">Email</a> •
-  <a href="https://github.com/MAANIK579" target="_blank">GitHub</a>
+  <a href="https://www.linkedin.com/in/durgesh-kushwaha" target="_blank">LinkedIn</a> •
+  <a href="mailto:durgeshcgc@gmail.com">Email</a> •
+  <a href="https://github.com/durgesh-kushwaha" target="_blank">GitHub</a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
