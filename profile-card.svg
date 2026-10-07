@@ -1,50 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0D1330"/><stop offset="1" stop-color="#06171E"/></linearGradient>
-  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
-  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#334155" opacity=".25"/></pattern>
-  <clipPath id="photo"><circle cx="250" cy="260" r="122"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0B1230"/><stop offset="1" stop-color="#06171E"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#334155" opacity=".22"/></pattern>
+<clipPath id="p"><circle cx="250" cy="255" r="116"/></clipPath>
 </defs>
-
 <rect x="10" y="10" width="1380" height="500" rx="34" fill="url(#bg)"/>
 <rect x="10" y="10" width="1380" height="500" rx="34" fill="url(#grid)"/>
 <rect x="22" y="22" width="1356" height="476" rx="28" fill="none" stroke="url(#edge)" stroke-width="2"/>
-
-<circle cx="60" cy="58" r="7" fill="#22D3EE"/>
-<circle cx="84" cy="58" r="7" fill="#7C3AED"/>
-<circle cx="108" cy="58" r="7" fill="#34D399"/>
+<circle cx="60" cy="58" r="7" fill="#22D3EE"/><circle cx="84" cy="58" r="7" fill="#7C3AED"/><circle cx="108" cy="58" r="7" fill="#34D399"/>
 <text x="136" y="65" fill="#64748B" font-family="monospace" font-size="16">DURGESH@PROFILE / DIGITAL-ID</text>
-<text x="1208" y="65" fill="#34D399" font-family="monospace" font-size="14">● VERIFIED PROFILE</text>
-
-<rect x="60" y="98" width="380" height="350" rx="24" fill="#020617" fill-opacity=".72" stroke="#334155"/>
-<circle cx="250" cy="260" r="136" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".35" stroke-width="3"/>
-<image href="https://github.com/durgesh-kushwaha.png?size=500" x="128" y="138" width="244" height="244" preserveAspectRatio="xMidYMid slice" clip-path="url(#photo)"/>
-<circle cx="250" cy="260" r="122" fill="none" stroke="#A78BFA" stroke-width="2" opacity=".65"/>
-<text x="250" y="418" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">DURGESH KUSHWAHA</text>
-
-<text x="485" y="130" fill="#22D3EE" font-family="monospace" font-size="14" letter-spacing="3">PROFILE / ID CARD</text>
-<text x="485" y="178" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">Data Analytics • Data Science</text>
-<text x="485" y="213" fill="#94A3B8" font-family="monospace" font-size="18">B.Tech Artificial Intelligence &amp; Data Science</text>
-
-<line x1="485" y1="242" x2="1320" y2="242" stroke="#334155"/>
-
-<text x="485" y="280" fill="#22D3EE" font-family="monospace" font-size="13">CURRENT MISSION</text>
-<text x="485" y="306" fill="#CBD5E1" font-family="monospace" font-size="16">Turn real-world data into useful insights &amp; products.</text>
-
-<text x="485" y="345" fill="#22D3EE" font-family="monospace" font-size="13">FLAGSHIP</text>
-<text x="580" y="345" fill="#E2E8F0" font-family="monospace" font-size="16">BizGuard AI</text>
-<text x="485" y="378" fill="#22D3EE" font-family="monospace" font-size="13">STACK</text>
-<text x="580" y="378" fill="#E2E8F0" font-family="monospace" font-size="16">Python • SQL • Pandas • NumPy • Streamlit</text>
-
-<text x="485" y="420" fill="#22D3EE" font-family="monospace" font-size="13">STATUS</text>
-<text x="580" y="420" fill="#34D399" font-family="monospace" font-size="16">BUILDING / LEARNING / SHIPPING</text>
-
-<rect x="485" y="456" width="835" height="5" rx="2.5" fill="#1E293B"/>
-<rect x="485" y="456" width="520" height="5" rx="2.5" fill="url(#bar)">
-  <animate attributeName="width" values="120;835;320;835" dur="6s" repeatCount="indefinite"/>
-</rect>
-<circle cx="1005" cy="458.5" r="7" fill="#67E8F9">
-  <animate attributeName="cx" values="605;1300;605" dur="6s" repeatCount="indefinite"/>
-</circle>
+<text x="1185" y="65" fill="#34D399" font-family="monospace" font-size="14">● ONLINE</text>
+<rect x="58" y="96" width="384" height="356" rx="24" fill="#020617" fill-opacity=".70" stroke="#334155"/>
+<circle cx="250" cy="255" r="136" fill="#0A1022" stroke="#22D3EE" stroke-opacity=".28" stroke-width="3"/>
+<circle cx="250" cy="255" r="116" fill="#0F172A"/>
+<g clip-path="url(#p)">
+<rect x="134" y="139" width="232" height="232" fill="#0B1730"/>
+<circle cx="250" cy="220" r="54" fill="#1E293B"/>
+<path d="M182 371 C188 295 217 270 250 270 C283 270 312 295 318 371Z" fill="#243447"/>
+<path d="M198 209 C201 166 224 150 250 150 C276 150 299 166 302 209 C282 190 218 190 198 209Z" fill="#0F2438"/>
+<circle cx="228" cy="220" r="5" fill="#67E8F9"/><circle cx="272" cy="220" r="5" fill="#67E8F9"/>
+<path d="M231 248 Q250 259 269 248" fill="none" stroke="#67E8F9" stroke-width="3"/>
+<path d="M145 155 L355 355 M355 155 L145 355" stroke="#22D3EE" stroke-opacity=".07" stroke-width="2"/>
+</g>
+<circle cx="250" cy="255" r="116" fill="none" stroke="#A78BFA" stroke-width="2" opacity=".7"/>
+<text x="250" y="421" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">DURGESH KUSHWAHA</text>
+<text x="250" y="444" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="12">AI &amp; DATA SCIENCE</text>
+<text x="485" y="130" fill="#22D3EE" font-family="monospace" font-size="14" letter-spacing="3">[ PROFILE / ID CARD ]</text>
+<text x="485" y="181" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">Data Analytics • Data Science</text>
+<text x="485" y="215" fill="#94A3B8" font-family="monospace" font-size="18">B.Tech Artificial Intelligence &amp; Data Science</text>
+<line x1="485" y1="244" x2="1320" y2="244" stroke="#334155"/>
+<text x="485" y="282" fill="#22D3EE" font-family="monospace" font-size="13">ROLE</text><text x="565" y="282" fill="#E2E8F0" font-family="monospace" font-size="16">Student • Builder • Data/AI Learner</text>
+<text x="485" y="316" fill="#22D3EE" font-family="monospace" font-size="13">FOCUS</text><text x="565" y="316" fill="#E2E8F0" font-family="monospace" font-size="16">Python • SQL • Statistics • Machine Learning</text>
+<text x="485" y="350" fill="#22D3EE" font-family="monospace" font-size="13">FLAGSHIP</text><text x="565" y="350" fill="#67E8F9" font-family="monospace" font-size="16">BizGuard AI</text>
+<text x="485" y="384" fill="#22D3EE" font-family="monospace" font-size="13">LIVE</text><text x="565" y="384" fill="#34D399" font-family="monospace" font-size="16">bizguard.streamlit.app</text>
+<text x="485" y="418" fill="#22D3EE" font-family="monospace" font-size="13">STATUS</text><text x="565" y="418" fill="#34D399" font-family="monospace" font-size="16">BUILDING / LEARNING / SHIPPING</text>
+<rect x="485" y="456" width="835" height="4" rx="2" fill="#1E293B"/>
+<rect x="485" y="456" width="220" height="4" rx="2" fill="#22D3EE"><animate attributeName="x" values="485;1100;485" dur="4.8s" repeatCount="indefinite"/></rect>
+<circle cx="710" cy="458" r="6" fill="#67E8F9"><animate attributeName="cx" values="505;1300;505" dur="4.8s" repeatCount="indefinite"/></circle>
 </svg>
