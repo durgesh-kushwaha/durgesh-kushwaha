@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080B18"/>
+      <stop offset="55%" stop-color="#111638"/>
+      <stop offset="100%" stop-color="#07131C"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#24304D" stroke-width="1" opacity=".35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="26" y="26" width="1148" height="308" rx="18" fill="none" stroke="#22D3EE" stroke-opacity=".35"/>
+
+  <circle cx="72" cy="62" r="7" fill="#22D3EE" opacity=".9"/>
+  <circle cx="96" cy="62" r="7" fill="#7C3AED" opacity=".9"/>
+  <circle cx="120" cy="62" r="7" fill="#34D399" opacity=".9"/>
+  <text x="150" y="68" fill="#64748B" font-family="monospace" font-size="18">durgesh@profile:~$</text>
+  <text x="1030" y="68" fill="#34D399" font-family="monospace" font-size="15">● ONLINE</text>
+
+  <text x="72" y="122" fill="#22D3EE" font-family="monospace" font-size="16" letter-spacing="3">[ DATA / AI / ENGINEERING ]</text>
+
+  <text x="72" y="190" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="48" font-weight="700">Durgesh Kushwaha</text>
+  <text x="74" y="226" fill="#94A3B8" font-family="monospace" font-size="20">B.Tech AI &amp; Data Science • Data Analytics • AI/ML</text>
+
+  <line x1="72" y1="254" x2="1128" y2="254" stroke="#334155" stroke-width="1"/>
+
+  <text x="72" y="292" fill="#22D3EE" font-family="monospace" font-size="16">FOCUS</text>
+  <text x="154" y="292" fill="#CBD5E1" font-family="monospace" font-size="16">Python • SQL • Data Science • Machine Learning</text>
+
+  <text x="72" y="318" fill="#22D3EE" font-family="monospace" font-size="16">BUILDING</text>
+  <text x="154" y="318" fill="#CBD5E1" font-family="monospace" font-size="16">BizGuard AI • Practical data-driven solutions</text>
+
+  <text x="1040" y="292" fill="#22D3EE" font-family="monospace" font-size="18" filter="url(#glow)">_</text>
+</svg>
