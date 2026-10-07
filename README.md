@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="dark.svg" alt="Maanik Agarwal banner" width="100%"/>
+  <img src="dark.svg" alt="Durgesh Kushwaha banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maanik+Agarwal+%F0%9F%91%8B;Data+%26+ML+Enthusiast;Building+practical%2C+hands-on+tech;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Durgesh+Kushwaha+%F0%9F%91%8B;Data+Analytics+%7C+Data+Science+%7C+AI%2FML;Building+practical+data-driven+solutions;Always+learning+by+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAANIK579&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=durgesh-kushwaha&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/MAANIK579?label=Followers&style=for-the-badge&color=22D3EE" alt="GitHub followers" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maanik-agarwal-" target="_blank">
+  <a href="https://www.linkedin.com/in/durgesh-kushwaha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gargruchimay1984@gmail.com">
+  <a href="mailto:durgeshcgc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/MAANIK579" target="_blank">
+  <a href="https://github.com/durgesh-kushwaha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
