@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Durgesh+Kushwaha+%F0%9F%91%8B;Data+Analytics+%7C+Data+Science+%7C+AI%2FML;Turning+raw+data+into+useful+insights;Building+BizGuard+AI+%F0%9F%9B%A1%EF%B8%8F;Learning+by+building%2C+shipping%2C+and+iterating" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Durgesh+Kushwaha+%F0%9F%91%8B;Data+Analytics+%7C+Data+Science+%7C+AI%2FML;Building+practical+data-driven+solutions;Building+BizGuard+AI+%F0%9F%9B%A1%EF%B8%8F" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ Interactive analysis of hotel booking data covering booking patterns, occupancy,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgesh-kushwaha&bg_color=0B1020&color=22D3EE&line=7C3AED&point=67E8F9&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+  <img src="activity.svg" width="95%" alt="Animated build pulse"/>
 </p>
 
 ---
@@ -175,11 +175,10 @@ Interactive analysis of hotel booking data covering booking patterns, occupancy,
 </p>
 
 ---
-
-## 🐍 Contribution Matrix
+## ✨ Build Pulse
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/durgesh-kushwaha/durgesh-kushwaha/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
+  <img src="activity.svg" width="95%" alt="Animated build pulse"/>
 </p>
 
 ---
